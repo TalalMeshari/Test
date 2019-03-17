@@ -182,3 +182,4 @@ cars = ["Honda", "Toyota", "BMW"]
 cars.append("Ferrari")
 cars.pop(2) #deleted the 3rd element in the array
 cars.remove("Honda")#removes by the item's name
+#
